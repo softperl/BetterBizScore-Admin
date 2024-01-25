@@ -5,9 +5,5 @@ const History = () => {
     <div>History</div>
   )
 }
-History.acl = {
-  action: 'read',
-  subject: 'acl-page'
-}
 
 export default History
